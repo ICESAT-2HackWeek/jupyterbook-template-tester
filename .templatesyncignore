@@ -10,6 +10,8 @@ cookiecutter.yaml
 
 # book files (configuration, usage-specific)
 ./book/_config.yml
-./book/team.yaml
+
+# team member profiles
+./team/*
 
 # event-specific tutorials
