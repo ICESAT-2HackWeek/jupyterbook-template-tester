@@ -3,15 +3,15 @@
 # recommend listing non-basics tutorial directories here
 
 # configuration files
-cookiecutter.yaml
+#cookiecutter.yaml
 
 # environment lock files
-/conda/*lock.yml
+#/conda/*lock.yml
 
 # book files (configuration, usage-specific)
-/book/_config.yml
+#/book/_config.yml
 
 # team member profiles
-/team/*
+#/team/*
 
 # event-specific tutorials
