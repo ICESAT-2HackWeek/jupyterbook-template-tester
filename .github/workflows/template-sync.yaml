@@ -1,5 +1,4 @@
 name: 'Sync to Template'
-description: 'Get updates to the Jupyterbook from the template repo'
 
 on:
   # cronjob trigger (minute, hour, day, month, day-of-week; here 1st of month)
